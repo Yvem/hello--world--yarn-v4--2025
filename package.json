@@ -1,0 +1,7 @@
+{
+  "name": "hello--world--yarn-v4--2025",
+  "packageManager": "yarn@4.9.2",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
